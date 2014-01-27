@@ -12,7 +12,7 @@ Authors
  - John Resig
  - Jordan Sissel
  - Chris Klieber
- - The Pete
+ - Pete Fritchman
 
 Features
 ========
